@@ -2,6 +2,10 @@
 {
 "sites": [
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+//自己整理的
+{"key":"csp_xbb_影视工厂","name":"🍀影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.staticdn.net/jayjd/ttbb/main/影视工厂.json"},
+{"key":"csp_xbb_555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.staticdn.net/jayjd/ttbb/main/555电影.json"},
+
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/drpy/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/drpy/-/raw/master/js/drpy.js"},
 {"key":"T4_douban1","name":"🔍影视推荐1(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"T4_douban2","name":"🔍影视推荐2(T4)","type":4,"api":"https://t4.饭太硬.ml/vod","searchable":1,"quickSearch":1,"filterable":1},
@@ -16,10 +20,6 @@
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Bdys01","name":"📯哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1}, 
-
-//自己整理的
-{"key":"csp_xbb_影视工厂","name":"🍀影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.staticdn.net/jayjd/ttbb/main/影视工厂.json"},
-{"key":"csp_xbb_555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.staticdn.net/jayjd/ttbb/main/555电影.json"},
 
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
@@ -285,13 +285,13 @@
 {"key":"csp_xml_U酷资源","name":"🐝U酷 资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_天空资源","name":"🐝天空资源m3u8","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_樱花采集","name":"🐝樱花采集","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_樱花资源","name":"🐝樱花资源","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+//{"key":"csp_xml_樱花资源","name":"🐝樱花资源","type":1,"api":"https://yhzy.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_卧龙资源","name":"🐝卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_FOX资源","name":"🐝Fox 资源","type":1,"api":"https://foxzy.net/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_FOX采集","name":"🐝Fox 采集","type":1,"api":"https://api.foxzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_39影视","name":"🐝3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_酷点资源","name":"🐝酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_xml_想看资源","name":"🐝想看资源","type":1,"api":"https://xiangkanzy.com/api.php/provide/vod/","playUrl":"https://lyw28.com/m3u8/?url=","searchable":1,"quickSearch":1},
+{"key":"csp_xml_39影视","name":"🐝3 9影视","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1}
+//{"key":"csp_xml_酷点资源","name":"🐝酷点资源","type":1,"api":"https://api.kuapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+//{"key":"csp_xml_想看资源","name":"🐝想看资源","type":1,"api":"https://xiangkanzy.com/api.php/provide/vod/","playUrl":"https://lyw28.com/m3u8/?url=","searchable":1,"quickSearch":1},
 //{"key":"csp_xml_想看采集","name":"🐝想看采集","type":1,"api":"https://m3u8.xiangkanapi.com/api.php/provide/vod/","playUrl":"https://lyw28.com/m3u8/?url=","searchable":1,"quickSearch":1},
 //{"key":"csp_xml_鱼乐资源","name":"🐝鱼乐资源","type":1,"api":"https://www.ylzy1.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 //{"key":"csp_xml_橘猫资源","name":"🐝橘猫资源","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
