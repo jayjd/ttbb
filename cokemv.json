@@ -5,7 +5,7 @@
     "dcVipFlag": "true",
     "dcPlayUrl": "true",
     "dcShow2Vip": {},
-    "pCfgJs": "https://cokemv.me/static/js/playerconfig.js",
+    "pCfgJs": "https://cokemv.fun/static/js/playerconfig.js",
     "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
     "cateManual": {
       "抖音电影": "5",
