@@ -30,7 +30,7 @@
     "homeVodMark": "//div[@class='module-item-note']/text()",
   
   // Category Summary ================================================
-    "cateUrl": "https://cokemv.me/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
+    "cateUrl": "https://cokemv.fun/vodshow/{cateId}-{area}---{lang}----{catePg}---{year}.html",
     "cateVodNode": "//a[@class='module-poster-item module-item']",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
@@ -39,7 +39,7 @@
     "cateVodMark": "//div[@class='module-item-note']/text()",
   
   // Category Details ================================================
-    "dtUrl": "https://cokemv.me/voddetail/{vid}.html",
+    "dtUrl": "https://cokemv.fun/voddetail/{vid}.html",
     "dtNode": "//div[@class='module module-info']",
     "dtName": "//div[@class='module-info-main']/div[@class='module-info-heading']/h1/text()",
     "dtNameR": "",
@@ -61,11 +61,11 @@
     "dtUrlIdR": "/vodplay/(\\S+).html",
     "dtUrlName": "/span/text()",
     "dtUrlNameR": "",
-    "playUrl": "https://cokemv.me/vodplay/{playUrl}.html",
+    "playUrl": "https://cokemv.fun/vodplay/{playUrl}.html",
     "playUa": "",
   
   // Search Results ==================================================
-    "searchUrl": "https://cokemv.me/vodsearch/-------------.html?wd={wd}",
+    "searchUrl": "https://cokemv.fun/vodsearch/-------------.html?wd={wd}",
     "scVodNode": "json:list",
     "scVodName": "name",
     "scVodId": "id",
