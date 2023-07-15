@@ -324,8 +324,11 @@
 {"name":"CK解析","type":1,"url":"http://api.ckflv.cn/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}
   ],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-"spider":"https://raw.staticdn.net/jayjd/ttbb/main/a620.jar;md5;09BAF4A03D362D96F0FC14085C343191",
-"lives":[{"name":"live","type":0,"url":"https://raw.staticdn.net/jayjd/ttbb/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"spider":"https://raw.staticdn.net/jayjd/ttbb/main/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuc3RhdGljZG4ubmV0L2pheWpkL3R0YmIvbWFpbi9saXZlLnR4dA=="
+]}]}],
+//"lives":[{"name":"live","type":0,"url":"https://raw.staticdn.net/jayjd/ttbb/main/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
