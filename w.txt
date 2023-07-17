@@ -1,48 +1,14 @@
 {
 	"sites": [{
-		"key": "直播转点播",
-		"name": "📺︎┃电视┃点播",
+		"key": "csp_yayaya",
+		"name": "👧┃耐菲┃影视",
+		"api": "csp_AppYsV2",
 		"type": 3,
-		"api": "https://jihulab.com/duomv/duo/-/raw/main/js/zbzdb.js",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://bitbucket.org/xduo/json/raw/master/zb.json"
-	}, {
-		"key": "csp_Bili",
-		"name": "🅱️┃哔哩┃合集",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "https://bitbucket.org/xduo/json/raw/master/bili.json"
-	}, {
-		"key": "短视频",
-		"name": "📱┃网红┃美女",
-		"type": 3,
-		"api": "csp_XYQBiu",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "https://bitbucket.org/xduo/json/raw/master/短视频聚合.json"
-	}, {
-		"key": "csp_Yj1211",
-		"name": "👑┃直播┃合集",
-		"type": 3,
-		"api": "csp_Yj1211",
-		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
-	}, {
-		"key": "MV_vod",
-		"name": "🎹┃MTV┃合集",
-		"type": 1,
-		"api": "https://tvbox-mv.leevi0321.repl.co/mv/vod",
 		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, {
+		"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+	},{
 		"key": "js_ikanbot2",
 		"name": "🤖┃爱看┃机器",
 		"type": 3,
@@ -132,15 +98,6 @@
 		"quickSearch": 1,
 		"filterable": 1,
 		"ext": "http://app.mengdandan.com/xgapp.php/v1/"
-	}, {
-		"key": "csp_yayaya",
-		"name": "👧┃耐菲┃影视",
-		"api": "csp_AppYsV2",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": "https://yayayaaapp.ynf.icu/api.php/app/"
 	}, {
 		"key": "csp_beijihu",
 		"name": "🎪┃极狐┃影视",
