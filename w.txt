@@ -1047,20 +1047,6 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}],
-	"lives": [{
-		"name": "影视",
-		"url": "https://raw.kgithub.com/jayjd/ttbb/main/live.txt",
-		"type": 0,
-		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"
-	}, {
-		"group": "redirect",
-		"channels": [{
-			"name": "live",
-			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcua2dpdGh1Yi5jb20vamF5amQvdHRiYi9tYWluL2xpdmUudHh0"]
-		}]
-	}],
 	"rules": [{
 		"name": "量子",
 		"hosts": ["vip.lz", "hd.lz"],
