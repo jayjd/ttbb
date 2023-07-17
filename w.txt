@@ -1049,7 +1049,7 @@
 	}],
 	"lives": [{
 		"name": "影视",
-		"url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
+		"url": "https://fastly.jsdelivr.net/gh/jayjd/ttbb@main/live.txt",
 		"type": 0,
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
