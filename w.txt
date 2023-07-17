@@ -1049,7 +1049,7 @@
 	}],
 	"lives": [{
 		"name": "影视",
-		"url": "https://fastly.jsdelivr.net/gh/jayjd/ttbb@main/live.txt",
+		"url": "https://raw.kgithub.com/jayjd/ttbb/main/live.txt",
 		"type": 0,
 		"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
@@ -1058,7 +1058,7 @@
 		"channels": [{
 			"name": "live",
 			"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9mYXN0bHkuanNkZWxpdnIubmV0L2doL2pheWpkL3R0YmJAbWFpbi9saXZlLnR4dA=="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcua2dpdGh1Yi5jb20vamF5amQvdHRiYi9tYWluL2xpdmUudHh0"]
 		}]
 	}],
 	"rules": [{
