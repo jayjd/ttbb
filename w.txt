@@ -656,5 +656,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "spider": "img+https://la.kstore.space/download/3376/newjar.bmp;md5;7cb9c6f54061ff078b852944947900ec"
+    "spider": "https://raw.staticdn.net/jayjd/ttbb/main/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890"
 }
