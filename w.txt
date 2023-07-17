@@ -307,17 +307,6 @@
             "filterable": "1"
         },
         {
-            "key": "找資源",
-            "name": "找資源",
-            "type": "3",
-            "api": "csp_Zhaozy",
-            "changeable": "0",
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-            "ext": "影視天下第一$$$test2$$$test2"
-        },
-        {
             "key": "AliPS",
             "name": "盘搜",
             "type": "3",
