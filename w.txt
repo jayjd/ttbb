@@ -7,6 +7,7 @@
 {"key":"csp_xp_libv","name":"🔍Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/libv.json"},
 {"key":"csp_xp_jLgyy","name":"💧蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/lgyy.json"},
 {"key":"csp_xp_cokemv","name":"💢Cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/cokemv.json"},
+{"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/zxzj.json"},
 
 {"key":"csp_Kunyu77","name":"🔍酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/drpy/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/drpy/-/raw/master/js/drpy.js"},
@@ -43,7 +44,7 @@
 
 {"key":"csp_xml_搬运工","name":"🐝搬运工资源","type":1,"api":"https://cj.banyung.xyz/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","纪录","动作片","喜剧片","爱情片","科幻片","剧情片","悬疑片","惊悚片","恐怖片","犯罪片","冒险片","奇幻片","灾难片","战争片","动画片","歌舞片","历史片","传记片","其他片","国产剧","港台剧","日韩剧","欧美剧","海外剧","其他剧"]},
 
-{"key":"csp_xp_zxzj2","name":"💢在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/zxzj2.json"},
+
 {"key":"csp_xp_wmkankan","name":"💢完美看看","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/wmkankan.json"},
 {"key":"csp_xp_bttwoo","name":"💢两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/bttwoo.json"},
 {"key":"csp_xp_juhuang","name":"💢剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/juhuang.json"},   
