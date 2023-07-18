@@ -14,7 +14,7 @@
     "homeVodImg": "//div[@class='module-item-pic']/img/@data-original",
     "homeVodImgR": "",
     "homeVodMark": "//div[@class='module-item-note']/text()",
-    "cateUrl": "http://www.lgyy.cc/vodshow/{cateId}-{area}-{by}---{letter}---{catePg}---{year}/",
+    "cateUrl": "http://www.lgyy.vip/vodshow/{cateId}-{area}-{by}---{letter}---{catePg}---{year}/",
     "cateVodNode": "//a[@class='module-poster-item module-item']",
     "cateVodName": "/@title",
     "cateVodId": "/@href",
