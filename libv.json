@@ -1,7 +1,7 @@
 {
   "author":"Tangsan99999",
   "ua": "",
-  "homeUrl": "https://www.libvio.me/",
+  "homeUrl": "https://www.libvio.cc/",
   "dcPlayUrl": "true",
   "cateManual": {"电影": "1","剧集": "2","综艺": "3","动漫": "4","日韩剧": "15","欧美剧": "16"},
   "homeVodNode": "//div[contains(@class,'stui-vodlist__box')]/a",
