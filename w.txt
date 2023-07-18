@@ -5,6 +5,7 @@
 {"key":"csp_xbb_555电影","name":"🔍555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/555电影.json"},
 {"key":"csp_Kuaikan","name":"👀快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xp_libv","name":"🔍Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/libv.json"},
+{"key":"csp_xp_jLgyy","name":"💧蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.kgithub.com/jayjd/ttbb/main/lgyy.json"},
 
 {"key":"csp_Kunyu77","name":"🔍酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/drpy/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/drpy/-/raw/master/js/drpy.js"},
@@ -99,7 +100,7 @@
 {"key":"csp_xp_dmw","name":"💢动漫岛","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/dmw.json"},
 {"key":"csp_xp_omofun","name": "💢omofun日漫","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/MeowXP/omofun.json"},
 {"key":"csp_xp_bidiys","name":"💢Bidi影视(专线)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/bidiys2.json"},
-{"key":"csp_xp_jLgyy","name":"💢蓝光影院","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/lgyy.json"},
+
 {"key":"csp_xp_nmys","name":"💢农民影视","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/nmys2.json"},
 {"key":"csp_xp_gongreng","name":"💢工人影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/gongreng.json"},
 {"key":"csp_xp_jpys","name":"💢极品影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/jpys.json"},
